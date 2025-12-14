@@ -123,4 +123,3 @@ iris-classification-experiment/
 - 问题 2：3D 绘图报错“no module named mpl_toolkits.mplot3d”—— 升级 matplotlib 至最新版本：`pip install --upgrade matplotlib`
 
 - 问题 3：图片排版混乱（分页、抢占正文）—— 参考项目配套的 LaTeX 代码，清理重复的 geometry 包，调整图片尺寸与浮动参数（[ht]）
-> （注：文档部分内容可能由 AI 生成）
